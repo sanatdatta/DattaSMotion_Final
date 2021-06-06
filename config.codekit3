@@ -4,67 +4,31 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "B9DE654A-A052-4900-B690-09EA0D48CF95"
+		"uuidString": "A4B04C78-4A75-47BD-AEAD-35CED38C14D5"
 		}
 	],
 "creatorBuild": "32001",
 "files": {
-	"/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.gitattributes",
-		"oF": 0
-		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/deploy/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/deploy/index.html",
-		"oF": 0
 		},
 	"/deploy/js/scripts-min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/js/scripts-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/design/DattaS_DesignDashboard-04 (1).svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/design/DattaS_DesignDashboard-04 (1).svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/design/icons-07.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/design/icons-07.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
 		},
 	"/dev/content/svg-container.kit": {
 		"cB": 0,
@@ -110,7 +74,7 @@
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/index.html",
 		"oF": 2
 		},
@@ -119,7 +83,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/js/scripts-min.js",
 		"oF": 2,
 		"sC": 3,
@@ -275,19 +239,11 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/css/styles.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
-		},
-	"/gsap-bonus.tgz": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/gsap-bonus.tgz",
-		"oF": 0
 		},
 	"/node_modules": {
 		"ft": 65536,
@@ -327,41 +283,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-lock-min.json",
-		"oF": 0,
-		"oO": 1,
-		"oS": 1
-		},
-	"/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-min.json",
-		"oF": 0,
-		"oO": 1,
-		"oS": 1
-		},
-	"/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		}
 	},
 "hooks": [
@@ -370,7 +291,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 640184504.22365296,
-	"displayValue": "Motion-GSAP-Rocket-Working-main",
+	"displayValue": "DattaSMotion_Final",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 1
